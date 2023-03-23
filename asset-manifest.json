@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/simple-scaledrone-chat/static/css/main.073c9b0a.css",
+    "main.js": "/simple-scaledrone-chat/static/js/main.ddedc896.js",
+    "static/js/787.2fdbfeab.chunk.js": "/simple-scaledrone-chat/static/js/787.2fdbfeab.chunk.js",
+    "index.html": "/simple-scaledrone-chat/index.html",
+    "main.073c9b0a.css.map": "/simple-scaledrone-chat/static/css/main.073c9b0a.css.map",
+    "main.ddedc896.js.map": "/simple-scaledrone-chat/static/js/main.ddedc896.js.map",
+    "787.2fdbfeab.chunk.js.map": "/simple-scaledrone-chat/static/js/787.2fdbfeab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.ddedc896.js"
+  ]
+}
