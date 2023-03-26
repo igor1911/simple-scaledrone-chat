@@ -1,0 +1,7 @@
+.text {
+    padding: 5px;
+    background-color: rgb(225, 225, 225);
+    border: 1px solid rgb(150, 150, 150);
+    border-radius: 10px;
+    word-break: break-all;
+}

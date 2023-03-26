@@ -1,0 +1,30 @@
+.input {
+    width: 100%;
+    margin-top: 10px;
+    border: 1px solid black;
+}
+
+form {
+    display: flex;
+    flex-direction: row;
+}
+
+input {
+    flex-grow: 2;
+    padding: 10px 0px
+}
+
+input:focus {
+    outline: none;
+}
+
+form:focus-within {
+    outline: 1px solid #282c34;
+}
+
+button {
+    border: none;
+    background-color: #282c34;
+    color: white;
+    width: 30%;
+}

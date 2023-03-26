@@ -1,0 +1,24 @@
+.avatar {
+    width: 16px;
+    height: 16px;
+}
+
+.sender, .receiver {
+    display: flex;
+    width: 100%;
+}
+
+.sender {
+    justify-content: end;
+}
+
+.receiver {
+    justify-content: start;
+}
+
+.message-content-holder {
+    display: flex;
+    flex-direction: column;
+    min-width: 20%;
+    max-width: 60%;
+}
